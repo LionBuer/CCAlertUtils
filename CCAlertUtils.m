@@ -8,6 +8,7 @@
 
 #import "CCAlertUtils.h"
 #import "MBProgressHUD.h"
+#import "BlocksKit+UIKit.h"
 
 static NSInteger const kAlertViewTag = 10000;
 
